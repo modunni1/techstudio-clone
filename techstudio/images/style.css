@@ -1,0 +1,395 @@
+.pg1{
+    display: flex;
+}
+.pg1a{
+    display: flex;
+}
+.pg1c{
+    ;
+}
+.pg1b{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}   
+.pg1f{
+    background-color: whitesmoke;
+    margin-left: 900px;
+    justify-content: space-around
+}
+.pg1f a{
+  text-decoration: none;
+}
+.pg2{
+    background-image: url(./first\ backgroung\ img\ blury\ blue.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    justify-content: space-around;
+    display: flex;
+}
+.pg2a{
+    margin-top: 100px;
+    color: white;
+}
+.pg2g{
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.pg2c{
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pg2n{
+    font-size: 20px;
+}
+.pg2e{
+    display: flex;
+    margin-top: 5px;
+    justify-content: space-around;
+    line-height: 50px;
+    font-size: 20px;
+}
+.floating-messaging .float{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #017f30;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+.pg2d{
+    margin-top: 100px;
+    margin-left: 110px;
+    font-size: 20px;
+}
+.pg2f{
+    background-color: whitesmoke;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 500px;
+}
+.pg2d{
+    font-size: 20px;
+    font-family: open sans, sans-serif;
+}
+.pg2h{
+    display: flex;
+    justify-content: space-around;
+}
+.pg2i{
+    height: 50px;
+    width: 200px;
+}
+.pg2j{
+    width: 200px;
+}
+.pg2k{
+    margin-top: 10px;
+    height: 50px;
+    width: 450px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.pg2l{
+    margin-top: 10px;
+    height: 50px;
+    width: 450px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.pg2m{
+    background-color: blue;
+    height: 60px;
+    width: 40;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 15px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.pg3a{
+    display: flex;
+    justify-content: center;
+}
+.pg3b{
+    width: 150px;
+    border-radius: 200px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.pg33{
+    text-align: center;
+    margin-right:  50px;
+    font-size: 20px;
+    
+}
+.pg3g{
+    width: 150px;
+    border-radius: 200px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.pg32{
+    text-align: center;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.pg3i{
+    width: 150px;
+    border-radius: 200px;
+    margin-left: 670px;
+    margin-top: 10px;
+}
+.pg3h{
+    text-align: center;
+    font-size: 20px;
+}
+.pg4{
+    background-color: whitesmoke;
+    display: flex;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.pg4c{
+    margin-left: 20px;
+    text-align: center;
+}
+.pg4e{
+    margin-left: 20px;
+    text-align: center;
+}
+.pg4a{
+    text-align: center;
+}
+.pg5a{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pg5b{
+    background-color: blue;
+    width: 50px;
+    height: 5px;;
+    margin-left: 720px;
+}
+.pg5c{
+    display: flex;
+    margin-left: 100px;
+}
+.pg5d{
+    line-height: 30px;
+}
+.pg5f{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.pg5h{
+    width: 200px;
+    background-color: blue;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    padding-top: 10px;;
+    text-align: center;
+}
+.pg6b{
+    text-align: center;
+    margin-top: 100px;
+}
+.pg6e{
+    margin-left: 200px;
+}
+.pg7{
+    display: flex;
+    line-height: 20px;
+    padding-left: 100px;
+}
+.pg8c{
+    margin-left: 100px;
+    wi
+}
+.pg8e{
+    line-height: 30px;
+}
+.pg8d{
+    background-color: white;
+    width: 800px;
+    height: 500px;
+    border-radius: 7px;
+    position: relative;
+    top: 100px;
+    right: 150px;
+    padding-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pg8b{
+    display: flex;
+    background-color: whitesmoke;
+}
+.pg8c{
+    
+}
+.pg9d{
+    margin-top: 40px;
+    line-height: 30px;
+    font-size: 17px;
+}
+.pg9c{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pg9b{
+    margin-top: 40px;
+}
+.pg10{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.pg10a{
+    text-align: center;
+}
+.pg10b{
+    display: flex;;
+}
+.pg10d{
+    margin-left: 5px;
+    padding-left: 20px;
+}
+.pg10c{
+    margin-left: 100px;
+}
+.pg10e{
+    line-height: 30px;
+}
+.pg11{
+    background-color: blue;
+    display: flex;
+    width: 800px;
+    border-radius: 3px;
+    margin-left: 300px;
+    height: 100px;
+}
+.pg11a{
+    padding-top: 10px;
+    padding-left: 40px;
+    color: white;
+}
+.pg11b{
+    background-color: white;
+    color: blue;
+    height: 30px;
+    border-radius: 3px;
+    margin-left: 200px;
+    margin-top: 23px;
+    margin-bottom: 10px;
+    width: 200px;
+    text-align: center;
+    padding-top: 20px;
+}
+.pg11c{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+    line-height: 30px;
+}
+.pg12{
+    background-color: blue;
+    display: flex;
+    margin-top: 100px;
+    font-family: open sans, sans-serif;
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: lighter;
+}
+.pg12a{
+    background-color: white;
+    height: 400p;
+    margin-top: 50px;
+    margin-left: 200px;
+    height: 800px;
+    width: 600px;
+    padding-left: 50px;
+    display: block;
+}
+.pg12d{
+    background-color: red;
+    margin-left: 50px;
+    height: 800px;
+    margin-top: 50px;
+    color: white;
+    width: 400px;
+    display: block;
+    font-weight: lighter;
+    margin-bottom: 100px;
+}
+.pg12e{
+    background-color: blue;
+    color: white;
+    width: 300px;
+    margin-left: 50px;
+    height: 45px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;
+}
+.pg12c{
+    font-size: 2em;
+    font-family: sans-serif
+    font-style: italic;
+    
+}
+.pg12b{
+    padding-left: 30px;
+    font: 1.5em sans-serif;
+}
+.pg13{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 250px;
+
+}
+.pg13a{
+    display: block;
+    margin-left: 40px;
+}
+.pg13b{
+    display: flex;
+}
+.pg13c{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+.pg13d{
+    margin-top: 30px;
+}
+.pg13h{
+    margin-left: 100px;
+}
+.pg13k{
+    background-color: blue;
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 500px;
+    border-radius: 5px;
+}
+.pg13j{
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+}
+.pg13l{
+    margin-left: 100px;
+    margin-top: 20px;
+}
